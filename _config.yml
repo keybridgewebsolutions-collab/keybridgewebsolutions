@@ -1,0 +1,6 @@
+title: Home Tech Help Guides
+description: Plain-English guides to fixing and getting help with home computers, by KeyBridge Web Solutions.
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
+lang: en-US
